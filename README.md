@@ -30,7 +30,7 @@
 
 ### 4、安装django环境（python web开发环境）
 
-pip install django==1.8.2
+	pip install django==1.8.2
 
 
 ### 5、相关软件下载
